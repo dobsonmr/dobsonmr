@@ -641,3 +641,6 @@ jsonresume:
   - languages
   - interests
   - references
+
+  color_theme: dark
+
