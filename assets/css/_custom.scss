@@ -1,4 +1,21 @@
-html, body {
+/* Force dark mode on all pages */
+:root {
   color-scheme: dark;
 }
 
+html[data-theme='light'],
+body[data-theme='light'] {
+  --bg: #121212;
+  --fg: #e0e0e0;
+  --link: #90caf9;
+  --link-visited: #ce93d8;
+  --heading: #ffffff;
+  --muted: #888;
+  --border: #333;
+  --code: #f48fb1;
+  --preformatted: #212121;
+  --bg-secondary: #1e1e1e;
+
+  background-color: var(--bg) !important;
+  color: var(--fg) !important;
+}
