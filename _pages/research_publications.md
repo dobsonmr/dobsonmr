@@ -1,5 +1,6 @@
 ---
 title: Publications
+layout: publications
 permalink: /research/publications/
-layout: page
+nav: true
 ---
