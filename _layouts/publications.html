@@ -9,26 +9,42 @@ layout: default
   {% for pub in pubs %}
     <div class="pub-entry">
       {% if pub.entry_type %}
-        <div class="publication-banner" data-type="{{ pub.entry_type }}">{{ pub.entry_type }}</div>
+        <div class="publication-banner" data-type="{{ pub.entry_type }}">
+          {{ pub.entry_type }}
+        </div>
       {% endif %}
 
       <h3>{{ pub.title }}</h3>
+
       <p><strong>{{ pub.authors | array_to_sentence_string }}</strong></p>
 
       {% if pub.venue %}
         <p><em>{{ pub.venue }}</em> – {{ pub.date | date: "%B %Y" }}</p>
       {% endif %}
-      
+
       {% if pub.abstract %}
-        <p>{{ pub.abstract }}</p>
+        <details>
+          <summary class="btn btn-sm" style="margin-bottom: 8px;">ABS</summary>
+          <p>{{ pub.abstract }}</p>
+        </details>
       {% endif %}
 
       <div class="pub-links">
-        {% if pub.doi %}<a class="btn btn-sm" href="{{ pub.doi }}" target="_blank">DOI</a>{% endif %}
-        {% if pub.pdf %}<a class="btn btn-sm" href="{{ pub.pdf }}" target="_blank">PDF</a>{% endif %}
-        {% if pub.supplement %}<a class="btn btn-sm" href="{{ pub.supplement }}" target="_blank">Supplement</a>{% endif %}
-        {% if pub.code %}<a class="btn btn-sm" href="{{ pub.code }}" target="_blank">Code</a>{% endif %}
-        {% if pub.bibtex %}<a class="btn btn-sm" href="{{ pub.bibtex }}" target="_blank">BibTeX</a>{% endif %}
+        {% if pub.doi %}
+          <a class="btn btn-sm" href="{{ pub.doi }}" target="_blank">DOI</a>
+        {% endif %}
+        {% if pub.pdf %}
+          <a class="btn btn-sm" href="{{ pub.pdf }}" target="_blank">PDF</a>
+        {% endif %}
+        {% if pub.appendix %}
+          <a class="btn btn-sm" href="{{ pub.appendix }}" target="_blank">Appendix</a>
+        {% endif %}
+        {% if pub.code %}
+          <a class="btn btn-sm" href="{{ pub.code }}" target="_blank">Code</a>
+        {% endif %}
+        {% if pub.bibtex %}
+          <a class="btn btn-sm" href="{{ pub.bibtex }}" target="_blank">BibTeX</a>
+        {% endif %}
       </div>
     </div>
     <hr />
