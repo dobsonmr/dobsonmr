@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the CV page. You can also change or remove the PDF download button.",
+          description: "Below you can find information on my instituituoinal affiliations, candidacy, publications, and manuscripts under review. For additional information, view my complete CV by clicking the PDF icon.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/MackenzieRDobson/cv/";
