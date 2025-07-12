@@ -1,8 +1,8 @@
 ---
 title: Projects in Progress
-permalink: /research/projects/
 layout: page
+permalink: /research/projects/
 parent: Research
 nav: true
+nav_order: 2
 ---
-<!-- Content for your in-progress projects -->
