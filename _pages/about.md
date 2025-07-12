@@ -24,7 +24,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am a Ph.D. candidate in Government at the <a href="https://politics.virginia.edu" style="color: var(--global-theme-color);" target="_blank">University of Virginia</a> and a Visiting Scholar in the <a href="https://rooneycenter.nd.edu/research/representation-and-politics-in-legislatures-lab/" style="color: var(--global-theme-color);" target="_blank">Representation and Politics in Legislatures Lab</a> at the University of Notre Dame.
+Hello! I am a Ph.D. candidate in Government at the <a href="https://politics.virginia.edu" class="theme-link" target="_blank">University of Virginia</a> and a Visiting Scholar in the <a href="https://rooneycenter.nd.edu/research/representation-and-politics-in-legislatures-lab/" class="theme-link" target="_blank">Representation and Politics in Legislatures Lab</a> at the University of Notre Dame.
+
 
 I study American political institutions with a focus on legislative collaboration, representation, institutional power, and the incentives that shape lawmaking behavior. My research explores how legislators form coalitions and navigate partisan divisions, identifying the conditions under which bipartisan cooperation emerges, how institutional power structures those incentives, and what this reveals about democratic representation. I use quantitative methods, social network analysis, and computational tools to analyze lawmaking across diverse political contexts.
 
