@@ -10,7 +10,6 @@ profile:
   image_circular: false
 
 selected_papers: false
-social: 
 
 announcements:
   enabled: false
@@ -22,6 +21,7 @@ latest_posts:
   scrollable: true
   limit: 3
 ---
+
 
 Hello! I am a Ph.D. candidate in Government at the <a href="https://politics.virginia.edu" class="theme-link" target="_blank">University of Virginia</a> and a Visiting Scholar in the <a href="https://rooneycenter.nd.edu/research/representation-and-politics-in-legislatures-lab/" class="theme-link" target="_blank">Representation and Politics in Legislatures Lab</a> at the University of Notre Dame.
 
