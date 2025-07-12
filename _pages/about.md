@@ -9,26 +9,23 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social:  # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! I am a Ph.D. candidate in Government at the <a href="https://politics.virginia.edu" style="color: var(--global-theme-color);" target="_blank">University of Virginia</a> and a Visiting Scholar in the <a href="https://rooneycenter.nd.edu/research/representation-and-politics-in-legislatures-lab/" style="color: var(--global-theme-color);" target="_blank">Representation and Politics in Legislatures Lab</a> at the University of Notre Dame.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I study American political institutions with a focus on legislative collaboration, representation, institutional power, and the incentives that shape lawmaking behavior. My research explores how legislators form coalitions and navigate partisan divisions, identifying the conditions under which bipartisan cooperation emerges, how institutional power structures those incentives, and what this reveals about democratic representation. I use quantitative methods, social network analysis, and computational tools to analyze lawmaking across diverse political contexts.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My dissertation, <em>Asymmetric Bipartisanship: Conditional Cooperation and the Limits of Legislative Reciprocity</em>, examines how power asymmetries—particularly majority party security—shape the structure, strategy, and consequences of bipartisan collaboration in U.S. legislatures.
