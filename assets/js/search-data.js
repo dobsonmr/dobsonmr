@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/MackenzieRDobson/";
     },
-  },{id: "nav-projects-in-progress",
-          title: "Projects in Progress",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/MackenzieRDobson/research/projects/";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation",
@@ -29,6 +22,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/MackenzieRDobson/blog/";
+          },
+        },{id: "nav-projects-in-progress",
+          title: "Projects in Progress",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/MackenzieRDobson/research/projects/";
           },
         },{id: "nav-repositories",
           title: "repositories",
