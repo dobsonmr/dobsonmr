@@ -52,7 +52,7 @@
 - title: Peer-reviewed Publications
   type: list
   contents:
-    - "<span>Lollis, Jacob M., and <strong style='color:#a200ff;'>Mackenzie R. Dobson</strong>. "I'm Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers." <em>PS: Political Science and Politics</em>, 2025.</span> <a class='btn btn-sm' style='background-color: var(--global-theme-color); color:white; border:none; margin-left:8px;' href='https://www.cambridge.org/core/services/aop-cambridge-core/content/view/99F9DDDB008114F6D77FB27534575BF3/S1049096524000514a.pdf' target='_blank'>PDF</a>"
+    - "<span>Lollis, Jacob M., and <strong style='color:var(--global-theme-color);'>Mackenzie R. Dobson</strong>. "I'm Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers." <em>PS: Political Science and Politics</em>, 2025.</span> <a class='btn btn-sm' style='background-color: var(--global-theme-color); color:white; border:none; margin-left:8px;' href='https://www.cambridge.org/core/services/aop-cambridge-core/content/view/99F9DDDB008114F6D77FB27534575BF3/S1049096524000514a.pdf' target='_blank'>PDF</a>"
 
 - title: Manuscripts Under Review
   type: list
