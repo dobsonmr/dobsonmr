@@ -1,8 +1,14 @@
 ---
-layout: about
 title: About
+layout: about
 permalink: /
+nav: true
+nav_order: 1
 subtitle: Ph.D. Candidate
+---
+
+
+
 
 profile:
   align: right
