@@ -4,4 +4,5 @@ layout: publications
 permalink: /research/publications/
 parent: Research
 nav: true
+nav_order: 1
 ---
