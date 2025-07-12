@@ -1,19 +1,19 @@
-- title: Mackenzie R. Dobson, Ph.D. Candidate 
+- title: Mackenzie R. Dobson, Ph.D. Candidate
   type: map
   contents:
     - name: Contact Information
-    - value: 2015 Jenkins Nanovic Halls, Notre Dame, IN 46556
+      value: 2015 Jenkins Nanovic Halls, Notre Dame, IN 46556
     - name: E-mail
-    - value: mdobson2@nd.edu
-    - name: Substantive Interests 
-    - value: American political institutions, legislative politics, state politics, bipartisanship, legislative effectiveness, and representation
+      value: mdobson2@nd.edu
+    - name: Substantive Interests
+      value: American political institutions, legislative politics, state politics, bipartisanship, legislative effectiveness, and representation
     - name: Methodological Interests
-    - value: Quantitative methods, text-as-data, large language models, and panel data
+      value: Quantitative methods, text-as-data, large language models, and panel data
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. Government 
+    - title: Ph.D. Government
       institution: University of Virginia
       year: 2021 – 2026
       description:
@@ -21,29 +21,16 @@
         - "Dissertation: Asymmetric Bipartisanship: Conditional Cooperation and the Limits of Legislative Reciprocity"
 
     - title: M.A. Political Science
-      institution: Appalachian State University 
+      institution: Appalachian State University
       year: 2020 – 2021
       description:
         - Highest Honors
 
     - title: B.S. Political Science
-      institution: Appalachian State University 
+      institution: Appalachian State University
       year: 2018 – 2020
       description:
         - "*Summa Cum Laude*"
-      
-    - title: M.A. Political Science
-      institution: Appalachian State University 
-      year: 2020 - 2021
-      description:
-        - Highest Honors
-
-   - title: B.S. Political Science
-      institution: Appalachian State University 
-      year: 2018 - 2020
-      description:
-        - * Summa Cum Laude*     
-
 
 - title: Affiliations
   type: time_table
