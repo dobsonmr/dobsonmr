@@ -51,19 +51,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/MackenzieRDobson/teaching/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/MackenzieRDobson/repositories/";
-          },
         },{id: "nav-cv",
           title: "CV",
           description: "Below you can find information on my institutional affiliations, publications, and manuscripts under review. For additional information, view my complete CV by clicking the PDF icon.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/MackenzieRDobson/cv/";
+          },
+        },{id: "nav-repositories",
+          title: "repositories",
+          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/MackenzieRDobson/repositories/";
           },
         },{id: "nav-people",
           title: "people",
