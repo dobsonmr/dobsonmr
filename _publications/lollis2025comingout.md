@@ -3,7 +3,7 @@ title: "I'm Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmak
 collection: publications
 permalink: /publication/coming-out/
 date: 2025-03-01
-venue: <em>PS: Political Science and Politics</em>
+venue: "PS: Political Science and Politics"
 authors:
   - Jacob M. Lollis
   - Mackenzie R. Dobson
@@ -12,7 +12,7 @@ tags:
   - LGBTQ Politics
   - Representation
   - Legislative Effectiveness
-
+    
 doi: https://doi.org/10.1017/S1049096525000101
 pdf: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/99F9DDDB008114F6D77FB27534575BF3/S1049096525000101a.pdf/im-coming-out-how-voter-discrimination-produces-effective-lgbtq-lawmakers.pdf
 supplement: https://www.dropbox.com/scl/fi/inzq1tk12xskolkm7llts/Lollis-Dobson_SM.pdf?rlkey=bdpvcjch0a7he4pk0yvvfc7rm&st=o5vkaz0h&dl=0
