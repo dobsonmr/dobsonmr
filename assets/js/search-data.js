@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/MackenzieRDobson/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-projects-in-progress",
+          title: "Projects in Progress",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/MackenzieRDobson/research/projects/";
+          },
+        },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation",
