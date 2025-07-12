@@ -29,7 +29,6 @@ nav_order: 2
 
 <a class="btn btn-sm" style="background-color: var(--global-theme-color); color: white; border: none;" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/X7O80B" target="_blank">Code</a>
 
-<a class="btn btn-sm" style="background-color: var(--global-theme-color); color: white; border: none;" href="/assets/files/bibtex/coming-out.bib" target="_blank">BibTeX</a>
 
 
 ## Manuscripts Under Review 
