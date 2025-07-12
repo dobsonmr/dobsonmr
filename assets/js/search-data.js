@@ -16,26 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/MackenzieRDobson/";
           },
-        },{id: "nav-publications",
-          title: "Publications",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/MackenzieRDobson/research/publications/";
-          },
         },{id: "nav-research",
           title: "Research",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/MackenzieRDobson/research/";
-          },
-        },{id: "nav-projects-in-progress",
-          title: "Projects in Progress",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/MackenzieRDobson/research/projects/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
