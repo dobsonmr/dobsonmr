@@ -503,6 +503,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/MackenzieRDobson/projects/9_project/";
+            },},{id: "publications-i-39-m-coming-out-how-voter-discrimination-produces-effective-lgbtq-lawmakers",
+          title: 'I&amp;#39;m Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers',
+          description: "",
+          section: "Publications",handler: () => {
+              window.location.href = "/MackenzieRDobson/publication/coming-out/";
             },},{
         id: 'social-email',
         title: 'email',
