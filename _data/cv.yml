@@ -10,12 +10,27 @@
     - name: Methodological Interests
     - value: Quantitative methods, text-as-data, large language models, and panel data
 
-- title: Ph.D. Government 
-  institution: University of Virginia
-  year: 2021 – 2026
-  description:
-    - American Politics & Methodology
-    - name: "Dissertation: Asymmetric Bipartisanship: Conditional Cooperation and the Limits of Legislative Reciprocity"
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. Government 
+      institution: University of Virginia
+      year: 2021 – 2026
+      description:
+        - American Politics & Methodology
+        - "Dissertation: Asymmetric Bipartisanship: Conditional Cooperation and the Limits of Legislative Reciprocity"
+
+    - title: M.A. Political Science
+      institution: Appalachian State University 
+      year: 2020 – 2021
+      description:
+        - Highest Honors
+
+    - title: B.S. Political Science
+      institution: Appalachian State University 
+      year: 2018 – 2020
+      description:
+        - "*Summa Cum Laude*"
       
     - title: M.A. Political Science
       institution: Appalachian State University 
