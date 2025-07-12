@@ -4,7 +4,7 @@
     - name: Contact Information
       value: 2015 Jenkins Nanovic Halls, Notre Dame, IN 46556
     - name: E-mail
-      value: "[mdobson2@nd.edu](mailto:mdobson2@nd.edu)"
+      value: '<a href="mailto:mdobson2@nd.edu">mdobson2@nd.edu</a>'
     - name: Substantive Interests
       value: American political institutions, legislative politics, state politics, bipartisanship, legislative effectiveness, and representation
     - name: Methodological Interests
