@@ -5,17 +5,20 @@ layout: default
 <div class="publications">
   <h1>{{ page.title }}</h1>
 
-  {% assign publications = site.publications | sort: 'date' | reverse %}
-  {% for pub in publications %}
+  {% assign pubs = site.publications | sort: 'date' | reverse %}
+  {% for pub in pubs %}
     <div class="pub-entry">
       {% if pub.entry_type %}
         <div class="publication-banner" data-type="{{ pub.entry_type }}">{{ pub.entry_type }}</div>
       {% endif %}
+
       <h3>{{ pub.title }}</h3>
       <p><strong>{{ pub.authors | array_to_sentence_string }}</strong></p>
+
       {% if pub.venue %}
         <p><em>{{ pub.venue }}</em> – {{ pub.date | date: "%B %Y" }}</p>
       {% endif %}
+      
       {% if pub.abstract %}
         <p>{{ pub.abstract }}</p>
       {% endif %}
