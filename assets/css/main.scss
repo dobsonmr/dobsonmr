@@ -23,3 +23,7 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+.theme-link {
+  color: var(--global-theme-color);
+}
