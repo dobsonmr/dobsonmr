@@ -1,7 +1,7 @@
 ---
 title: Research
-nav: true
-nav_order: 3
-dropdown: true
+layout: page
 permalink: /research/
+nav: true
+nav_order: 2
 ---
