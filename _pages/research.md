@@ -33,6 +33,7 @@ nav_order: 2
 
 ## Manuscripts Under Review 
 
+
 <div style="margin-bottom: 1.5rem;">
 Porter, Rachel, Jeffrey J. Harden, Emily Anderson, Gessica de Freitas, <strong style="color: var(--global-theme-color);">Mackenzie R. Dobson</strong>, Abigail Hemmen, and Emma Schroeder. 
 <br><em>The Consequences of Elite Action Against Elections</em>  
@@ -83,6 +84,11 @@ findings raise broader concerns about the marginalization of minority legislator
 of representation under conditions of majority security.
   </p>
 </details>
+
+<a class="btn btn-sm" style="background-color: var(--global-theme-color); color: white; border: none;" href="https://www.dropbox.com/scl/fi/oeq5tpenw3r3oi3tuqy68/Selective_Reciprocity_in_Bipartisan_Collaboration__How_Majority_Security_Shapes_Legislative_Success.pdf?rlkey=9nkfnybkzagur6jqpku3uuwen&st=bxbyyl7b&dl=0" target="_blank">PDF</a>
+
+<a class="btn btn-sm" style="background-color: var(--global-theme-color); color: white; border: none;" href="https://www.dropbox.com/scl/fi/dxusmi8bhsde1pqnu601g/SM_Selective_Reciprocity.pdf?rlkey=auvsty9d80y7inz4055uy7nb7&st=hpmmzmh3&dl=0" target="_blank">Appendix</a>
+
 
 
 
