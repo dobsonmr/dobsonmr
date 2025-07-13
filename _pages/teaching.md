@@ -4,6 +4,7 @@ layout: page
 permalink: /teaching/
 nav: true
 nav_order: 3
+search_exclude: true
 ---
 
 <style>
