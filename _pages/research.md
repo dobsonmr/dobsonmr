@@ -64,7 +64,7 @@ nav_order: 2
 <div class="entry">
   <strong style="color: var(--global-theme-color);">Mackenzie R. Dobson</strong><br>
   <em>Selective Reciprocity in Bipartisan Collaboration: How Majority Security Shapes Legislative Success</em>
-  <span class="tag">Award-Winning Paper</span><br>
+  <span class="tag">Winner of the Best Graduate Student Paper on State Politics in 2025</span><br>
   <em>Under Review</em>
   <details style="margin-top: 0.75rem;">
     <summary class="btn btn-sm" style="margin-bottom: 8px; background-color: var(--global-theme-color); color: white; border: none;">
