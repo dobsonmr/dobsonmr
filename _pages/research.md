@@ -64,7 +64,7 @@ nav_order: 2
 <div class="entry">
   <strong style="color: var(--global-theme-color);">Mackenzie R. Dobson</strong><br>
   <em>Selective Reciprocity in Bipartisan Collaboration: How Majority Security Shapes Legislative Success</em>
-  <span class="tag">Best Graduate Student Paper on State Politics in 2025</span><br>
+   <span class="tag">Award-Winning Paper</span><br>
   <em>Under Review</em>
   <details style="margin-top: 0.75rem;">
     <summary class="btn btn-sm" style="margin-bottom: 8px; background-color: var(--global-theme-color); color: white; border: none;">
@@ -73,7 +73,7 @@ nav_order: 2
     <p>How does majority party security shape reciprocal bipartisan collaboration and influence legislative success? U.S. state legislatures vary widely in the stability of majority control, offering a valuable opportunity for examining how party security conditions the incentives for
 cross-party collaboration. Insecure majorities may foster reciprocity as both a behavioral norm
 and a strategic path to legislative advancement, while long-term one-party control can diminish the returns to bipartisan engagement. I develop a theory of
-<em>selective<em> reciprocity, arguing that majority security fundamentally restructures how legislators engage in and benefit from
+<em>selective</em> reciprocity, arguing that majority security fundamentally restructures how legislators engage in and benefit from
 bipartisan collaboration. Drawing on data from 401,720 bills introduced across 43 state legislatures between 2009 and 2018, I construct novel measures of bipartisan collaboration to
 evaluate reciprocity. I find that minority party legislators build reputational capital by consistently cosponsoring majority party bills---but their efforts yield few legislative gains in secure majority chambers. Instead, majority legislators selectively reciprocate only on minority
 party initiatives unlikely to pass, preserving the appearance of cooperation while protecting
