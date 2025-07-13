@@ -31,22 +31,17 @@ search_exclude: true
   <em>University of Richmond</em><br>
   Fall 2023 & Spring 2024
 
-  <details style="margin-top: 1rem;">
-    <summary class="btn btn-sm" style="margin-bottom: 8px; background-color: var(--global-theme-color); color: white; border: none;">
+<details open style="margin-top: 1rem;">
+    <summary class="btn btn-sm" style="background-color: var(--global-theme-color); color: white; border: none;">
       Course Description
     </summary>
+    <div style="margin-top: 0.75rem;">
+      <p>Questions that motivate this course include: Why do governments deal with certain issues/problems, while others are dealt with by the private sector or not at all? How do political actors and institutions shape the policies that exist in America? How do we determine what is best policy? How do scholars, politicians, and administrators evaluate public policies? Can we evaluate policy in a non-political way? These are a handful of the questions we will explore in this course.</p>
 
-    <p style="margin-top: 0.75rem;">
-      Questions that motivate this course include: Why do governments deal with certain issues/problems, while others are dealt with by the private sector or not at all? How do political actors and institutions shape the policies that exist in America? How do we determine what is best policy? How do scholars, politicians, and administrators evaluate public policies? Can we evaluate policy in a non-political way? These are a handful of the questions we will explore in this course.
-    </p>
+      <p>In answering these questions, students will be introduced to the fundamental elements of public policymaking in the United States. Attention is given to the various steps of the policy process, the institutions and actors involved, and the conditions that facilitate or impede policy adoption and implementation at all levels of government. We will also discuss policy tradeoffs between efficiency, effectiveness, political feasibility, and equality.</p>
 
-    <p>
-      In answering these questions, students will be introduced to the fundamental elements of public policymaking in the United States. Attention is given to the various steps of the policy process, the institutions and actors involved, and the conditions that facilitate or impede policy adoption and implementation at all levels of government. We will also discuss policy tradeoffs between efficiency, effectiveness, political feasibility, and equality.
-    </p>
-
-    <p>
-      The first half of the course focuses on how and why policies are developed and how they change. The second half deals with substantive policy areas including economic/budgetary, health, welfare, social security, environmental, and education policy. By the end of the course, students should have a social scientific lens that they can use to systematically understand and evaluate public policy issues in their roles as engaged citizens.
-    </p>
+      <p>The first half of the course focuses on how and why policies are developed and how they change. The second half deals with substantive policy areas including economic/budgetary, health, welfare, social security, environmental, and education policy. By the end of the course, students should have a social scientific lens that they can use to systematically understand and evaluate public policy issues in their roles as engaged citizens.</p>
+    </div>
   </details>
 
   <div style="margin-top: 1rem;">
@@ -84,5 +79,7 @@ search_exclude: true
   <em>University of Virginia</em><br>
    Fall 2022
   </div>
+
+</div>
 
 
