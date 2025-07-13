@@ -123,3 +123,70 @@ tion cross-party collaboration and open avenues for comparative institutional re
 
 <a class="btn btn-sm" style="background-color: var(--global-theme-color); color: white; border: none;" href="https://www.dropbox.com/scl/fi/wxtm84umtjammy17rv4a1/SM_Bipartisan_Path.pdf?rlkey=98pig0ptjzu06eexr5tebu836&st=l9b03fwa&dl=0" target="_blank">Appendix</a>
 
+
+
+<div style="margin-bottom: 1.5rem;">
+<strong style="color: var(--global-theme-color);">Mackenzie R. Dobson</strong>, Craig Volden, and Alan E. Wiseman 
+  <br><em>Outcome-Consequential Campaigning.</em>  
+  <br><em>Under Review</em>
+
+ <details style="margin-top: 0.75rem;">
+  <summary class="btn btn-sm" style="margin-bottom: 8px; background-color: var(--global-theme-color); color: white; border: none;">
+    Abstract
+  </summary>
+  <p>
+   Campaigns can feature simple electoral posturing or actual commitments of
+behaviors that politicians will engage in upon being elected. But can
+campaigns also offer insights into likely policy outcomes, including those
+resulting from collective policymaking? To address this question, we take
+advantage of new scholarship highlighting the enhanced lawmaking
+effectiveness of bipartisan legislators (Harbridge-Yong et al. 2023). We
+identify bipartisan campaigners from among more than 800 congressional
+Representatives. Despite increased polarization, since the year 2000 more
+than a third of congressional freshmen invoked bipartisan language on the
+campaign trail. These bipartisan campaigners became effective lawmakers.
+Their enhanced effectiveness was especially pronounced in Representatives’
+earlier terms in office and linked to the lawmaking stages requiring significant
+coalition-building activities. These findings suggest that campaigns offer
+voters meaningful insights not only into candidates’ subsequent behaviors
+regarding the issues they attend to and the legislative votes they take, but also
+into policy outcomes via their effective lawmaking.
+  </p>
+</details>
+
+<a class="btn btn-sm" style="background-color: var(--global-theme-color); color: white; border: none;" href="https://thelawmakers.org/wp-content/uploads/2024/10/Outcome-Consequential-Campaigning_CEL-working-paper_241015.pdf" target="_blank">PDF</a>
+
+<div style="margin-bottom: 1.5rem;">
+<strong style="color: var(--global-theme-color);">Mackenzie R. Dobson</strong>, Jacob M. Lollis, Justin H. Kirkland, and Jeffrey J. Harden
+  <br><em>Why Citizens Dislike Professional Legislatures:
+White-Collar Government and Policymaking for the Wealthy.</em>  
+  <br><em>Under Review</em>
+
+ <details style="margin-top: 0.75rem;">
+  <summary class="btn btn-sm" style="margin-bottom: 8px; background-color: var(--global-theme-color); color: white; border: none;">
+    Abstract
+  </summary>
+  <p>
+   The steady professionalization of American state legislatures over the past several decades has
+created a key tension in political representation: state publics disapprove of professionalized
+legislatures, on average, yet those legislatures are best equipped to represent their policy pref-
+erences. We explain part of this paradox by arguing that citizens’ objections to professional-
+ization stem from distrust of “white-collar” legislators—lawmakers from high socioeconomic
+classes, who are overrepresented in professionalized chambers. These legislators’ policy prior-
+ities are viewed as misaligned with the average citizen’s, which reduces approval more than any
+opposition to institutional reforms that enhance legislative capacity. A pre-registered conjoint
+experiment demonstrates support for this claim; citizens do not oppose the institutional expan-
+sion of resources for conducting lawmaking. Rather, they react negatively to representation
+from white-collar lawmakers, whom they associate with professionalized legislatures. Further,
+we demonstrate in temporal observational analyses of economic outcomes in the states that
+this opposition is justified. State-level income inequality and poverty have increased in asso-
+ciation with the professionalization of state legislatures over time. These findings challenge
+existing accounts by suggesting that disapproval of legislative professionalism is a rejection of
+governing by economic elites—not of reforms intended to support legislators and facilitate the
+process of policymaking.
+  </p>
+</details>
+
+<a class="btn btn-sm" style="background-color: var(--global-theme-color); color: white; border: none;" href="https://www.dropbox.com/scl/fi/deqlapw9ruef5o2oksjr6/CashingInOnCapacity_6.pdf?rlkey=mdb6psmx0oplaoyhjbz3fhd62&e=1&st=n17dt41s&dl=0" target="_blank">PDF</a>
+
+
