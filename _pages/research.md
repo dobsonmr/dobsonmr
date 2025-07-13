@@ -116,4 +116,4 @@ nav_order: 2
     <p>The steady professionalization of American state legislatures over the past several decades has created a key tension in political representation... (trimmed)</p>
   </details>
   <a class="btn btn-sm" style="background-color: var(--global-theme-color); color: white; border: none;" href="https://www.dropbox.com/scl/fi/deqlapw9ruef5o2oksjr6/CashingInOnCapacity_6.pdf?rlkey=mdb6psmx0oplaoyhjbz3fhd62&e=1&st=n17dt41s&dl=0" target="_blank">PDF</a>
-</div>.
+</div>
