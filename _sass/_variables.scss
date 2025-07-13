@@ -61,3 +61,13 @@ $back-to-top-width: $back-to-top-diameter;
   display: inline-block;
 }
 
+
+:root {
+  --global-theme-color: #B7410E; // Terracotta for light mode
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --global-theme-color: #556B2F; // Dark Olive Green for dark mode
+}
+
