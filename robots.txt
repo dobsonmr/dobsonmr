@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mackenzierdobson.com/sitemap.xml
+Sitemap: https://www.mackenzierdobson.com/sitemap.xml
