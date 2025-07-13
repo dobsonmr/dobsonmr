@@ -20,7 +20,10 @@ nav_order: 2
 </style>
 
 
-## Publications
+</div>
+
+## Manuscripts Under Review
+
 
 <div style="margin-bottom: 1.5rem;">
   Jacob M. Lollis and <strong style="color: var(--global-theme-color);">Mackenzie R. Dobson</strong>  
