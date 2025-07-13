@@ -4,6 +4,7 @@ layout: page
 permalink: /research/
 nav: true
 nav_order: 2
+search_exclude: true
 ---
 
 <style>
