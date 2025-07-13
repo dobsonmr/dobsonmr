@@ -32,10 +32,12 @@ $grey-900: #212529;
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
-// Theme colors
+// Theme colors (custom site-wide colors)
+$theme-color-light: #B7410E !default; // Terracotta for light mode
+$theme-color-dark: #556B2F !default;  // Dark olive for dark mode
 
-$code-bg-color-light:#B7410E ;
-$code-bg-color-dark: #556B2F !default;
+$code-bg-color-light: $theme-color-light;
+$code-bg-color-dark: $theme-color-dark;
 
 // Font awesome location
 $fa-font-path: "../webfonts";
@@ -60,6 +62,3 @@ $back-to-top-width: $back-to-top-diameter;
   border-radius: 4px;
   display: inline-block;
 }
-
-
-
