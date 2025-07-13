@@ -5,6 +5,21 @@ permalink: /research/
 nav: true
 nav_order: 2
 ---
+
+<style>
+  .tag {
+    display: inline-block;
+    background-color: var(--global-theme-color);
+    color: white;
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 4px;
+    margin-left: 0.5rem;
+  }
+</style>
+
+
 ## Publications
 
 <div style="margin-bottom: 1.5rem;">
@@ -56,8 +71,10 @@ Porter, Rachel, Jeffrey J. Harden, Emily Anderson, Gessica de Freitas, <strong s
 
 <div style="margin-bottom: 1.5rem;">
 <strong style="color: var(--global-theme-color);">Mackenzie R. Dobson</strong>  
-  <br><em>Selective Reciprocity in Bipartisan Collaboration: How Majority Security Shapes Legislative Success</em>  
-  <br><em>Under Review</em>
+ <br><em>Selective Reciprocity in Bipartisan Collaboration: How Majority Security Shapes Legislative Success</em>  
+<span class="tag">Award-Winning Paper</span>
+<br><em>Under Review</em>
+
 
  <details style="margin-top: 0.75rem;">
   <summary class="btn btn-sm" style="margin-bottom: 8px; background-color: var(--global-theme-color); color: white; border: none;">
@@ -96,7 +113,9 @@ of representation under conditions of majority security.
 <div style="margin-bottom: 1.5rem;">
 <strong style="color: var(--global-theme-color);">Mackenzie R. Dobson</strong>  
   <br><em>The Bipartisan Path Revisited: Collaboration and Lawmaking in U.S. State Legislatures.</em>  
-  <br><em>Under Review</em>
+<span class="tag">CEL Working Paper Series</span>
+<br><em>Under Review</em>
+
 
  <details style="margin-top: 0.75rem;">
   <summary class="btn btn-sm" style="margin-bottom: 8px; background-color: var(--global-theme-color); color: white; border: none;">
@@ -128,7 +147,9 @@ tion cross-party collaboration and open avenues for comparative institutional re
 <div style="margin-bottom: 1.5rem;">
 <strong style="color: var(--global-theme-color);">Mackenzie R. Dobson</strong>, Craig Volden, and Alan E. Wiseman 
   <br><em>Outcome-Consequential Campaigning.</em>  
-  <br><em>Under Review</em>
+<span class="tag">CEL Working Paper Series</span>
+<br><em>Under Review</em>
+
 
  <details style="margin-top: 0.75rem;">
   <summary class="btn btn-sm" style="margin-bottom: 8px; background-color: var(--global-theme-color); color: white; border: none;">
