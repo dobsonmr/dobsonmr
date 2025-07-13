@@ -59,27 +59,25 @@ search_exclude: true
 <div class="entry">
   <strong style="color: var(--global-theme-color); font-size: 1.1rem;">Politics and the Political Economy of Development</strong><br>
   <em>University of Virginia</em><br>
-   Spring 2024
-  </div>
+  Spring 2024
+</div>
 
-  <div class="entry">
+<div class="entry">
   <strong style="color: var(--global-theme-color); font-size: 1.1rem;">Introduction to American Politics</strong><br>
   <em>University of Virginia</em><br>
-   Fall 2023
-  </div>
+  Fall 2023
+</div>
 
-   <div class="entry">
+<div class="entry">
   <strong style="color: var(--global-theme-color); font-size: 1.1rem;">American Congress</strong><br>
   <em>University of Virginia</em><br>
-   Spring 2023
-  </div>
+  Spring 2023
+</div>
 
-    <div class="entry">
+<div class="entry">
   <strong style="color: var(--global-theme-color); font-size: 1.1rem;">Presidential Power</strong><br>
   <em>University of Virginia</em><br>
-   Fall 2022
-  </div>
-
+  Fall 2022
 </div>
 
 
