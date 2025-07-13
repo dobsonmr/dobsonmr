@@ -24,6 +24,7 @@ nav_order: 2
 </style>
 
 ## Publications
+<hr style="border: 1px solid #ccc; margin-top: 0.5rem; margin-bottom: 1.5rem;">
 
 <div class="entry">
   Jacob M. Lollis and <strong style="color: var(--global-theme-color);">Mackenzie R. Dobson</strong><br>
@@ -46,6 +47,7 @@ nav_order: 2
 </div>
 
 ## Manuscripts Under Review
+<hr style="border: 1px solid #ccc; margin-top: 0.5rem; margin-bottom: 1.5rem;">
 
 <div class="entry">
   Porter, Rachel, Jeffrey J. Harden, Emily Anderson, Gessica de Freitas, <strong style="color: var(--global-theme-color);">Mackenzie R. Dobson</strong>, Abigail Hemmen, and Emma Schroeder.<br>
