@@ -89,7 +89,7 @@ of representation under conditions of majority security.</p>
 
 <div class="entry">
   <strong style="color: var(--global-theme-color);">Mackenzie R. Dobson</strong><br>
-  <em>The Bipartisan Path Revisited: Collaboration and Lawmaking in U.S. State Legislatures.</em>
+  <em>The Bipartisan Path Revisited: Collaboration and Lawmaking in U.S. State Legislatures</em>
   <span class="tag">CEL Working Paper Series</span><br>
   <em>Under Review</em>
   <details style="margin-top: 0.75rem;">
@@ -142,7 +142,7 @@ into policy outcomes via their effective lawmaking.</p>
 
 <div class="entry">
   <strong style="color: var(--global-theme-color);">Mackenzie R. Dobson</strong>, Jacob M. Lollis, Justin H. Kirkland, and Jeffrey J. Harden<br>
-  <em>Why Citizens Dislike Professional Legislatures: White-Collar Government and Policymaking for the Wealthy.</em><br>
+  <em>Why Citizens Dislike Professional Legislatures: White-Collar Government and Policymaking for the Wealthy</em><br>
   <em>Under Review</em>
   <details style="margin-top: 0.75rem;">
     <summary class="btn btn-sm" style="margin-bottom: 8px; background-color: var(--global-theme-color); color: white; border: none;">
