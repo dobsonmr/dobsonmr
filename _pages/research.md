@@ -110,7 +110,7 @@ by the opposing party. On the whole, bipartisanship is positively associated wit
 likely shape the contours of bipartisan collaboration. These findings underscore the value of
 state legislatures for evaluating how structural features of policymaking environments condition cross-party collaboration and open avenues for comparative institutional research.</p>
   </details>
-  <a class="btn btn-sm" style="background-color: var(--global-theme-color); color: white; border: none;" href="https://www.dropbox.com/home/Website%20PDFs?preview=The_Bipartisan_Path_Revisited__Collaboration_and_Legislative_Effectiveness_in_the_U_S__States.pdf" target="_blank">PDF</a>
+  <a class="btn btn-sm" style="background-color: var(--global-theme-color); color: white; border: none;" href="https://www.dropbox.com/scl/fi/avwceye13oq92vluj9pxo/Dobson_Bipartisan_Path.pdf?rlkey=i9outbktpn0ms39hdl9v937b0&st=sj9ervte&dl=0" target="_blank">PDF</a>
   <a class="btn btn-sm" style="background-color: var(--global-theme-color); color: white; border: none;" href="https://www.dropbox.com/scl/fi/wxtm84umtjammy17rv4a1/SM_Bipartisan_Path.pdf?rlkey=98pig0ptjzu06eexr5tebu836&st=l9b03fwa&dl=0" target="_blank">Appendix</a>
 </div>
 
